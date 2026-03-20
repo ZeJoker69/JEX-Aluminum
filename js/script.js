@@ -1,3 +1,8 @@
+function toggleMenu() {
+  const nav = document.getElementById("navLinks");
+  nav.classList.toggle("active");
+}
+
 // PORTFOLIO FILTER
 
 const filterButtons = document.querySelectorAll(".filter-btn");
