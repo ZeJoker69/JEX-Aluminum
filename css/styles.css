@@ -51,17 +51,17 @@ padding-right: 80%;
   justify-content:space-between;
   align-items: center;
 }
-@media(max-width:768px){
+/* @media(max-width:768px){
 
 .nav-links{
 display:none; /* hide links for now */
 }
-
+/* 
 .quote-btn{
 display:none;
-}
+} */
 
-}
+} */
 .quote-btn{
   background-image: -webkit-linear-gradient(top, #DB8B2D, #875C13);
   background-image: -moz-linear-gradient(top, #DB8B2D, #875C13);
