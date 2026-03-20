@@ -11,7 +11,7 @@ color:#333;
   /* display: flex; */
 }
 .navbar{
-  max-width: auto;
+  max-width: 1000px;
   display:flex;
   justify-content:space-between;
   align-items:center;
